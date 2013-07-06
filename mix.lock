@@ -1,0 +1,5 @@
+[ "ex_doc": {:git,"https://github.com/elixir-lang/ex_doc.git","806da084a075ed4a3604951f1eb8ce3e86e85c43",[]},
+  "httpotion": {:git,"https://github.com/myfreeweb/httpotion.git","71cedb525d7676ea667ab90036657680ab91e930",[]},
+  "ibrowse": {:git,"https://github.com/cmullaparthi/ibrowse.git","208277b69fa9cc1b68f37d1261a77abe6487a677",[]},
+  "jsonex": {:git,"https://github.com/devinus/jsonex.git","b623538e836d0623b73d9492fa8c254870adc3cc",[]},
+  "jsx": {:git,"git://github.com/talentdeficit/jsx.git","352d6b21cbec4fe1b66bc7ce3ded67a3b32add2c",[]} ]
